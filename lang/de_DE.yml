@@ -4,6 +4,6 @@ de_DE:
     RESULTS: 'Ergebnisse'
   GridFieldExtensions:
     ADD: 'Hinzufügen'
-    ADDEXISTING: 'Bestenden Eintrag hinzufügen'
+    ADDEXISTING: 'Bestehenden Eintrag hinzufügen'
     SEARCH: 'Suche'
     SELECTTYPETOCREATE: '(Bitte Typ wählen)'
